@@ -22,3 +22,5 @@ wmiclitableformatnosys
 wmiclitableformatnosys.xsl
 wmiclivalueformat
 wmiclivalueformat.xsl
+
+Ex: wmic qfe list full /format:htable > hotfixes.htm (list windows updates)
