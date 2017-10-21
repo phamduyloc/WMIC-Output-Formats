@@ -1,4 +1,4 @@
-wmic [stuff to do] /format /type
+wmic [stuff] /format /type
 
 With type are:
 CSV
