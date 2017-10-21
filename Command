@@ -1,0 +1,24 @@
+wmic [stuff to do] /format /type
+
+With type are:
+CSV
+HFORM
+HMOF
+HTABLE
+HXML
+LIST
+RAWXML
+TABLE
+VALUE
+htable-sortby
+htable-sortby.xsl
+texttablewsys
+texttablewsys.xsl
+wmiclimofformat
+wmiclimofformat.xsl
+wmiclitableformat
+wmiclitableformat.xsl
+wmiclitableformatnosys
+wmiclitableformatnosys.xsl
+wmiclivalueformat
+wmiclivalueformat.xsl
